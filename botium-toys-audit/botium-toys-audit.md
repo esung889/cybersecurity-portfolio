@@ -6,7 +6,7 @@
 | --- | --- | --- |
 | Least privilege |  | **✔️** |
 | Disaster recovery plans |  | **✔️** |
-| Password policies | **✔️** |  |
+| Password policies |  |**✔️**  |
 | Separation of duties |  | **✔️** |
 | Firewall | **✔️** |  |
 | Intrusion detection system (IDS) |  | **✔️** |
